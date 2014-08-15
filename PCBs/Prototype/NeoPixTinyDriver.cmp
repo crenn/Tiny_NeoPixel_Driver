@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 25/06/2014 10:19:20 PM
+
+BeginCmp
+TimeStamp = /53115A79;
+Reference = C1;
+ValeurCmp = 47u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53115A88;
+Reference = C2;
+ValeurCmp = 2u2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53115A6A;
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53376EF4;
+Reference = IC1;
+ValeurCmp = ATTINY85-S;
+IdModule  = SOIC8_WIDE_EIAJ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53115186;
+Reference = L1;
+ValeurCmp = 6u8;
+IdModule  = IND;
+EndCmp
+
+BeginCmp
+TimeStamp = /53376E6B;
+Reference = P1;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53376E3E;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /538F0F60;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = CONN_1x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /538F0F6F;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = CONN_1x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /538F0F7E;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = CONN_1x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /538F0F8D;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = CONN_1x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5337A1CC;
+Reference = P7;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /538F1F3F;
+Reference = Q1;
+ValeurCmp = MBT3906;
+IdModule  = SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AAA67A;
+Reference = Q3;
+ValeurCmp = MOS_N;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /538C6010;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /538C5F19;
+Reference = R2;
+ValeurCmp = 1M;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53378F27;
+Reference = R3;
+ValeurCmp = 1M;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5337972C;
+Reference = R4;
+ValeurCmp = 100K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53115AB5;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53115AC4;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53115D4C;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = TAC_SW;
+EndCmp
+
+BeginCmp
+TimeStamp = /53115D3D;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = TAC_SW;
+EndCmp
+
+BeginCmp
+TimeStamp = /5337A38E;
+Reference = U1;
+ValeurCmp = TPS61027;
+IdModule  = SON-10;
+EndCmp
+
+EndListe
